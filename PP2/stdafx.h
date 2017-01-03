@@ -4,3 +4,7 @@
 
 #include <stdio.h>
 #include <tchar.h>
+#include <memory>
+#include <functional>
+
+#include "Primitives.h"
